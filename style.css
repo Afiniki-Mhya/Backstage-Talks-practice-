@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.body {
+  font: sans-serif;
+  background: #ffbe00;
+  padding: 1rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.issue {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+img {
+  padding-top: 3rem;
+  padding-bottom: 10px;
+  width: 25rem;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: #000;
+}
+.context{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.context a{
+    outline: none;
+    color: #fff;
+    text-decoration: none;
+ 
+
+}
+
